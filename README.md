@@ -1,2 +1,2 @@
 # funny site
-visit it here- dipdagod.github.io/time 
+[visit here](https://dhairyakhetan.github.io/time/)
